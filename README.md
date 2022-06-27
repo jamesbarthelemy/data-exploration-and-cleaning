@@ -20,3 +20,11 @@ The different goals are :
 ## Nutriscore
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns.png" width="100">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns_res.png" width="300">
+
+1. The nutriscore_score variable is a quantitative variable whose empirical distribution is between -15 and 40
+2. The lower its value, the healthier the product
+3. The distribution is bimodal with an overrepresentation of nutriscores B and D
+4. On average, the nutriscore is 8 (C)
+5. With a median of 7, half of the products have a nutriscore between A and C
+6. Finally, with Q3 equal to 14, we can say that 75% of the products have a nutriscore less than or equal to D
