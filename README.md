@@ -17,7 +17,9 @@ The different goals are :
 
 # Results overview
 
-## Nutriscore
+## Univariate analysis
+
+### Nutriscore
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns.png" width="200">
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns_res.png" width="600">
@@ -29,6 +31,9 @@ The different goals are :
 5. With a median of 7, half of the products have a nutriscore between A and C
 6. Finally, with Q3 equal to 14, we can say that 75% of the products have a nutriscore less than or equal to D
 
-## The place of organic products
+### The place of organic products
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_organic.png" width="600">
+
+## Bivariate analysis
+
