@@ -11,6 +11,12 @@ The different goals are :
 6. Confirm or refute hypotheses using multivariate analysis
 7. Perform the appropriate statistical tests to verify the significance of the results
 
-# Steps description
+# Cleaning steps description
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_desc.png" width="1200">
+
+# Results overview
+
+## Nutriscore
+
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns.png" width="100">
