@@ -37,3 +37,12 @@ The different goals are :
 
 ## Bivariate analysis
 
+### Nutriscore vs saturated fat
+
+Assumption: The lower the saturated fat, the healthier the product
+
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns_ft.png" width="600">
+
+### Correlation circle
+
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_cc.png" width="600">
