@@ -19,8 +19,8 @@ The different goals are :
 
 ## Nutriscore
 
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns.png" width="100">
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns_res.png" width="300">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns.png" width="200">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_ns_res.png" width="600">
 
 1. The nutriscore_score variable is a quantitative variable whose empirical distribution is between -15 and 40
 2. The lower its value, the healthier the product
