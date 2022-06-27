@@ -28,3 +28,7 @@ The different goals are :
 4. On average, the nutriscore is 8 (C)
 5. With a median of 7, half of the products have a nutriscore between A and C
 6. Finally, with Q3 equal to 14, we can say that 75% of the products have a nutriscore less than or equal to D
+
+## The place of organic products
+
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p2_organic.png" width="600">
